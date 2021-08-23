@@ -13,7 +13,7 @@ Apasionado por crear y descubrir, encuentro en la **programación una vida de ex
 * 👨 👩 Me gusta compartir ideas y debatirlas.
 * 📕 El ultimo libro que leí: [Una Geólogia de los medios](https://cajanegraeditora.com.ar/libros/una-geologia-de-los-medios-jussi-parikka/).
 * 🎶 El ultimo disco que escuche: [Solar Power](https://youtu.be/wvsP_lzh2-8).
-* 📋 Algo mas detallado? mi [curriculum](/JuanStromanIlzFSCV(1).pdf)
+* 📋 Algo mas detallado? mi [curriculum](/JuanStromanIlzFSCV%20(1).pdf)
 ## ⚙️ Algunas herramientas que uso diariamente
 <img src=/icons/vsc.png height=80></img>
 <img src=/icons/react.png height=80></img>
