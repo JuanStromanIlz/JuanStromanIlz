@@ -15,6 +15,15 @@ Apasionado por crear y descubrir, encuentro en la **programación una vida de ex
 * 🎶 El ultimo disco que escuche: [Solar Power](https://youtu.be/wvsP_lzh2-8).
 * 📋 Algo mas detallado? mi [curriculum]()
 ## Algunas herramientas que uso diariamente
+<img src=/icons/vsc.png height=80></img>
+<img src=/icons/react.png height=80></img>
+<img src=/icons/sc.png height=80></img>
+<img src=/icons/js.png height=80></img>
+<img src=/icons/npm.png height=80></img>
+<img src=/icons/node.svg height=80></img>
+<img src=/icons/csshtml.png height=80></img>
+<img src=/icons/vercel.png height=80></img>
+<img src=/icons/heroku1.png height=80></img>
 ## ✨ Lenguajes mas usados
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanStromanIlz&layout=compact&hide_title=true&theme=dark)](https://github.com/JuanStromanIlz/github-readme-stats)
 ## 🌟 Repositorios destacados
