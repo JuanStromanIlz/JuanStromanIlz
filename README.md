@@ -1,7 +1,6 @@
 # 👋 Hola mundo, soy [Juan](https://github.com/JuanStromanIlz)!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jstromanilz)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=googlechrome&logoColor=black)](https://jstromanilz.vercel.app)
-[![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanStromanIlz)\
+[![Portfolio](https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=googlechrome&logoColor=black)](https://jstromanilz.vercel.app)\
 \
 _Desarrolador FullStack y artista plastico._\
 \
