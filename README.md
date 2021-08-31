@@ -4,7 +4,7 @@
 \
 _Desarrolador FullStack y artista plastico._\
 \
-Apasionado por crear y descubrir, encuentro en la **programación una vida de expresión**. Si te gusta mi trabajo o estas pensado en sumar gente a tu equipo **no dudes en contactarme, estoy en la búsqueda de crecer laboralmente**.
+Apasionado por crear y descubrir, encuentro en la **programación una via de expresión**. Si te gusta mi trabajo o estas pensado en sumar gente a tu equipo **no dudes en contactarme, estoy en la búsqueda de crecer laboralmente**.
 ## 😊 Un poco sobre mi
 * 🌞 Argentino.
 * ♐ Sagitariano.
