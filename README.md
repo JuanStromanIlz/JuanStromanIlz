@@ -19,7 +19,7 @@ y en constante aprendizaje. Si te gusta mi trabajo o estas pensado en sumar gent
 - 👨 👩 Me gusta compartir ideas y debatirlas.
 - 📕 El ultimo libro que leí: [Una Geólogia de los medios](https://cajanegraeditora.com.ar/libros/una-geologia-de-los-medios-jussi-parikka/).
 - 🎶 El ultimo disco que escuche: [Solar Power](https://youtu.be/wvsP_lzh2-8).
-- 📋 Algo mas detallado? mi [curriculum](/JuanStromanIlzFSCV.pdf)
+- 📋 Algo mas detallado? mi [curriculum](/JuanStromanIlzCVF.pdf)
 
 ## ⚙️ Algunas herramientas que uso diariamente
 
